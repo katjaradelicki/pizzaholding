@@ -1,0 +1,11 @@
+1. Bestudeerde de code.
+2. Maak een beleg Ananas aan. De standaard prijs van Ananas bedraagt 0.9 euro.
+3. Maak in Pizzahut een pizza Hawaii aan, deze is belegd met Ham, Champignons, Ananas en Mozarella.
+4. Maak in Pizzahut een ook een pizza Honolulu aan, deze is belegd met Ham, Champignons, Ananas en Mozarella.
+5. Maak een eigen keten pizzaketen PizzaAloha aan. Deze bevat minstens 3 soorten pizza.
+	Een van de drie soorten is de pizza Hawaii met de ingredienten Ham, Champignons, Ananas en Mozarella.
+	De twee anderen mag je samenstellen volgens eigen smaak.
+6. Creëer een HamburgerHolding.
+	Voorzie minstens 2 ketens Fast en McBurger.
+	Elke keten bevat minstens 2 soorten hamburgers, waarbij elke keten minstens 1 andere hamburger aanbied dan de andere ketens.
+	Voorzie minstens 4 soorten van ingredienten, elke burger bevat een andere combinatie van ingredienten.
